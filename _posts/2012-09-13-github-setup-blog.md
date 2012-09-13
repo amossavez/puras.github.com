@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: 在Github上搭建免费的博客
 ---
 
-在Github上搭建免费的个人博客
+{{ page.title }}
 ----------------------------
 
 听朋友说可以在Github上搭建博客，但一直没有时间弄，今天突然想弄一下，便折腾了一番。
